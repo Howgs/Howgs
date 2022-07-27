@@ -1,4 +1,4 @@
-Olá, Meu nome é Howgs Blannk, Estudante de Tecnologias Front-End.
+Olá, Meu nome é Howgs Blannk, desenvovedor Front-End.
 
 ##
 
