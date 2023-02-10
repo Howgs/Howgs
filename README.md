@@ -1,4 +1,4 @@
-Olá, meu nome é Howgs Blannk, desenvolvedor Front-End.
+Hello, my name is Howgs Blanck, I'm a developer...
 
 ##
 
